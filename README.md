@@ -10,5 +10,5 @@ Requires (to compile):<br/>
 Subversion checkout URL:<br/>
 https://github.com/dandar3/android-google-play-services-base/tags/6.5.87
 
-AdMob Release Notes:<br/>
+Google Play Services 6.5:<br/>
 http://android-developers.blogspot.com/2014/11/google-play-services-65.html
