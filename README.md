@@ -10,6 +10,6 @@ Requires (to compile):<br/>
 Subversion checkout URL:<br/>
 https://github.com/dandar3/android-google-play-services-base/tags/7.0.0
 
-Google Play Services 6.5:<br/>
+Changes / New Features:<br/>
 http://developer.android.com/google/play-services/index.html#newfeatures<br/>
 http://android-developers.blogspot.ie/2015/03/google-play-services-70-places-everyone.html
