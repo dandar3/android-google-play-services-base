@@ -2,13 +2,14 @@ android-google-play-services-base
 =================================
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/google/m2repository/com/google/android/gms/play-services-base/6.5.87/play-services-base-6.5.87.aar`
+`ANDROID_SDK/extras/google/m2repository/com/google/android/gms/play-services-base/7.0.0/play-services-base-7.0.0.aar`
 
 Requires (to compile):<br/>
 `Android 2.3 (API 10) SDK Platform`
 
 Subversion checkout URL:<br/>
-https://github.com/dandar3/android-google-play-services-base/tags/6.5.87
+https://github.com/dandar3/android-google-play-services-base/tags/7.0.0
 
 Google Play Services 6.5:<br/>
-http://android-developers.blogspot.com/2014/11/google-play-services-65.html
+http://developer.android.com/google/play-services/index.html#newfeatures<br/>
+http://android-developers.blogspot.ie/2015/03/google-play-services-70-places-everyone.html
