@@ -12,4 +12,4 @@ Subversion checkout URL:<br/>
 
 Release Notes:<br/>
 * https://developers.google.com/android/guides/releases<br/>
-* http://android-developers.blogspot.com/2015/04/theres-lot-to-explore-with-google-play.html
+* https://android-developers.blogspot.ie/2015/05/a-closer-look-at-google-play-services-75.html
