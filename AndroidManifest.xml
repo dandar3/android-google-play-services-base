@@ -15,8 +15,8 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.google.android.gms"
-          android:versionCode="730"
-          android:versionName="7.3.0">
+          android:versionCode="750"
+          android:versionName="7.5.0">
     <uses-sdk android:minSdkVersion="10"/>
 
     <application>
