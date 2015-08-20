@@ -13,8 +13,8 @@
     <string name="common_google_play_services_enable_title" msgid="529078775174559253">"Google Play ಸೇವೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"</string>
     <string name="common_google_play_services_enable_text" msgid="4896236883690196080">"Google Play ಸೇವೆಗಳನ್ನು ನೀವು ಸಕ್ರಿಯಗೊಳಿಸದ ಹೊರತು <xliff:g id="APP_NAME">%1$s</xliff:g> ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ."</string>
     <string name="common_google_play_services_enable_button" msgid="4181637455539816337">"Google Play ಸೇವೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"</string>
-    <string name="common_google_play_services_update_title" msgid="6006316683626838685">"Google Play ಸೇವೆಗಳನ್ನು ನವೀಕರಿಸಿ"</string>
-    <string name="common_android_wear_update_title" msgid="1366439133145190222">"Android Wear ನವೀಕರಿಸಿ"</string>
+    <string name="common_google_play_services_update_title" msgid="6006316683626838685">"Google Play ಸೇವೆಗಳನ್ನು ಅಪ್‌ಡೇಟ್‌ ಮಾಡಿ"</string>
+    <string name="common_android_wear_update_title" msgid="1366439133145190222">"Android Wear ಅಪ್‌ಡೇಟ್‌ ಮಾಡಿ"</string>
     <string name="common_google_play_services_update_text" msgid="5709479369299147668">"ನೀವು Google Play ಸೇವೆಗಳನ್ನು ನವೀಕರಿಸದ ಹೊರತು <xliff:g id="APP_NAME">%1$s</xliff:g> ರನ್ ಆಗುವುದಿಲ್ಲ."</string>
     <string name="common_android_wear_update_text" msgid="2453027084525739603">"ನೀವು Android Wear ಅಪ್ಲಿಕೇಶನ್ ನವೀಕರಿಸದ ಹೊರತು <xliff:g id="APP_NAME">%1$s</xliff:g> ರನ್ ಆಗುವುದಿಲ್ಲ."</string>
     <string name="common_google_play_services_updating_title" msgid="815008177440683245">"Google Play ಸೇವೆಗಳನ್ನು ನವೀಕರಿಸಲಾಗುತ್ತಿದೆ"</string>
