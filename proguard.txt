@@ -19,4 +19,5 @@
     public static final ** CREATOR;
 }
 
--dontwarn android.app.Notification
+# Needed when building against the Marshmallow SDK
+-dontwarn org.apache.http.**

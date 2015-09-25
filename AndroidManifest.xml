@@ -14,15 +14,8 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.google.android.gms"
-          android:versionCode="780"
-          android:versionName="7.8.0">
+          package="com.google.android.gms.base"
+          android:versionCode="810"
+          android:versionName="8.1.0">
     <uses-sdk android:minSdkVersion="10"/>
-
-    <application>
-        <meta-data
-            android:name="com.google.android.gms.version"
-            android:value="@integer/google_play_services_version" />
-    </application>
-
 </manifest>
