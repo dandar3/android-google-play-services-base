@@ -15,5 +15,5 @@ Subversion checkout URL:<br/>
 
 Release Notes:<br/>
 * https://developers.google.com/android/guides/releases
-* https://android-developers.blogspot.com/2015/09/google-play-services-81-and-android-60.html?linkId=17303839
+* https://android-developers.blogspot.com/2015/09/google-play-services-81-and-android-60.html
 * https://plus.google.com/+AndroidDevelopers/posts/33VQc7EeQQk
