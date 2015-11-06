@@ -21,3 +21,6 @@
 
 # Needed when building against the Marshmallow SDK
 -dontwarn org.apache.http.**
+
+# Needed when building against pre-Marshmallow SDK.
+-dontwarn android.security.NetworkSecurityPolicy
