@@ -12,3 +12,4 @@
     <item
         android:drawable="@drawable/common_google_signin_btn_text_light_normal" />
 </selector>
+<!-- From: file:/tmp/tmp-deduplicated6141127760898580491/java/com/google/android/gmscore/integ/client/base/res/drawable/common_google_signin_btn_text_light.xml -->

@@ -18,4 +18,10 @@
           android:versionCode="900"
           android:versionName="9.0.0">
     <uses-sdk android:minSdkVersion="10"/>
+
+    <application>
+        <activity android:name="com.google.android.gms.common.api.GoogleApiActivity"
+                  android:theme="@android:style/Theme.Translucent.NoTitleBar"
+                  android:exported="false"/>
+    </application>
 </manifest>
