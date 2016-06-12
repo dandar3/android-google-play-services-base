@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/tmp/tmp-deduplicated2225550802785317079/blaze-out/intel-linux-android-4.8-libcxx-x86-opt/genfiles/java/com/google/android/gmscore/integ/client/base/res/values-zu/strings.xml -->
+    <!-- From: file:/tmp/tmp-deduplicated1795802546432009098/blaze-out/intel-linux-android-4.8-libcxx-x86-opt/genfiles/java/com/google/android/gmscore/integ/client/base/res/values-zu/strings.xml -->
     <eat-comment/>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"I-<ns1:g id="APP_NAME">%1$s</ns1:g> idinga isevisi eyodwa noma amaningi we-Google Play okwamanje angatholakali. Sicela uxhumane nonjiniyela ukuze uthole usizo."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Nika amandla amasevisi e-Google Play"</string>

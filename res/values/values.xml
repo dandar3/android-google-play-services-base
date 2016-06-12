@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/tmp/tmp-deduplicated2225550802785317079/java/com/google/android/gmscore/integ/client/base/res/values/colors.xml -->
+    <!-- From: file:/tmp/tmp-deduplicated1795802546432009098/java/com/google/android/gmscore/integ/client/base/res/values/colors.xml -->
     <eat-comment/>
     <color name="common_action_bar_splitter">#d2d2d2</color>
     <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
@@ -20,7 +20,7 @@
     <color name="common_plus_signin_btn_text_light_focused">#FF737373</color>
     <color name="common_plus_signin_btn_text_light_pressed">#DE000000</color>
     <declare-styleable name="SignInButton"><attr format="reference|enum" name="buttonSize"><enum name="standard" value="0"/><enum name="wide" value="1"/><enum name="icon_only" value="2"/></attr><attr format="reference|enum" name="colorScheme"><enum name="dark" value="0"/><enum name="light" value="1"/><enum name="auto" value="2"/></attr><attr format="reference|string" name="scopeUris"/></declare-styleable>
-    <!-- From: file:/tmp/tmp-deduplicated2225550802785317079/java/com/google/android/gmscore/integ/client/base/res/values/strings.xml -->
+    <!-- From: file:/tmp/tmp-deduplicated1795802546432009098/java/com/google/android/gmscore/integ/client/base/res/values/strings.xml -->
     <eat-comment/>
     <string name="common_google_play_services_api_unavailable_text"><ns1:g id="app_name">%1$s</ns1:g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
