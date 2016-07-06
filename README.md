@@ -7,7 +7,6 @@ Eclipse library project based on:<br/>
 - `Android 2.3.1 (API 9) SDK Platform`
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement)
 - [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks)
-- [dandar3/android-google-firebase-common](https://github.com/dandar3/android-google-firebase-common)
 
 **References:**
 - https://developers.google.com/android/guides/releases#may_2016_-_v90
