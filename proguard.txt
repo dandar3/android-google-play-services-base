@@ -32,8 +32,22 @@
   @com.google.android.gms.common.annotation.KeepName *;
 }
 
+# Keep Dynamite API entry points
+-keep @interface com.google.android.gms.common.util.DynamiteApi
+-keep public @com.google.android.gms.common.util.DynamiteApi class * {
+  public <fields>;
+  public <methods>;
+}
+
+# Keep @UsedByReflection and @UsedByNative
+-keep class com.google.android.apps.common.proguard.UsedBy*
+-keep @com.google.android.apps.common.proguard.UsedBy* class *
+-keepclassmembers class * {
+    @com.google.android.apps.common.proguard.UsedBy* *;
+}
+
 # Needed when building against pre-Marshmallow SDK.
 -dontwarn android.security.NetworkSecurityPolicy
 
--dontwarn com.google.android.gms.clearcut.**
--dontwarn com.google.android.gms.internal.**
+# Needed when building against Marshmallow SDK.
+-dontwarn android.app.Notification
