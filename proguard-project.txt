@@ -34,7 +34,7 @@
 
 # Keep Dynamite API entry points
 -keep @interface com.google.android.gms.common.util.DynamiteApi
--keep public @com.google.android.gms.common.util.DynamiteApi class * {
+-keep @com.google.android.gms.common.util.DynamiteApi public class * {
   public <fields>;
   public <methods>;
 }
