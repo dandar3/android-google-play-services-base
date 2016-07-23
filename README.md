@@ -1,4 +1,4 @@
-#android-google-play-services-base
+## android-google-play-services-base
 
 Eclipse library project based on:<br/>
 `ANDROID_SDK/extras/google/m2repository/com/google/android/gms/play-services-base/9.2.0/play-services-base-9.2.0.aar`
