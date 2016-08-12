@@ -39,13 +39,6 @@
   public <methods>;
 }
 
-# Keep @UsedByReflection and @UsedByNative
--keep class com.google.android.apps.common.proguard.UsedBy*
--keep @com.google.android.apps.common.proguard.UsedBy* class *
--keepclassmembers class * {
-    @com.google.android.apps.common.proguard.UsedBy* *;
-}
-
 # Needed when building against pre-Marshmallow SDK.
 -dontwarn android.security.NetworkSecurityPolicy
 
