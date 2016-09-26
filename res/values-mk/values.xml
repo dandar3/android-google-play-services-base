@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/tmp/tmp-deduplicated2803026416421244449/blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/base/res/values-mk/strings.xml -->
+    <!-- From: file:/tmp/aar_gen_tmp813630288716462527/tmp-deduplicated/blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/base/res/values-mk/strings.xml -->
     <eat-comment/>
     <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Овозможи"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> нема да се извршува ако не овозможите услуги на Google Play."</string>
     <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Овозможи ги услугите на Google Play"</string>
-    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Преземи ги услугите на Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Инсталирај"</string>
     <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> нема да се извршува без услугите на Google Play што ги нема на телефонот."</string>
     <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> нема да се извршува без услугите на Google Play што ги нема на таблетот."</string>
     <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Преземи ги услугите на Google Play"</string>

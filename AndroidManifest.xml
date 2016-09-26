@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0"?>
 <!-- Copyright (C) 2012 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,14 +13,11 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.google.android.gms.base"
-          android:versionCode="940"
-          android:versionName="9.4.0">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.android.gms.base"
+    android:versionCode="960"
+    android:versionName="9.6.0">
     <uses-sdk android:minSdkVersion="9"/>
     <application>
-        <activity android:name="com.google.android.gms.common.api.GoogleApiActivity"
-                  android:theme="@android:style/Theme.Translucent.NoTitleBar"
-                  android:exported="false"/>
+        <activity android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" android:exported="false"/>
     </application>
 </manifest>
