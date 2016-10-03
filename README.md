@@ -9,7 +9,7 @@ Eclipse library project based on:<br/>
 - [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/9.6.1)
 
 **References:**
-- https://developers.google.com/android/guides/releases#september_21_-_v96
+- https://developers.google.com/android/guides/releases#september_2016_-_v96
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
