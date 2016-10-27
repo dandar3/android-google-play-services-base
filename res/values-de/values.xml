@@ -1,24 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/tmp/aar_gen_tmp813630288716462527/tmp-deduplicated/blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/base/res/values-de/strings.xml -->
-    <eat-comment/>
-    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktivieren"</string>
-    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> funktioniert erst nach der Aktivierung der Google Play-Dienste."</string>
-    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-Dienste aktivieren"</string>
-    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installieren"</string>
-    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die auf deinem Smartphone nicht installiert sind."</string>
-    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die auf deinem Tablet nicht installiert sind."</string>
-    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play-Dienste installieren"</string>
-    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fehler bei Zugriff auf Google Play-Dienste"</string>
-    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich. Diese werden auf deinem Gerät jedoch nicht unterstützt. Wende dich für weitere Informationen an den Hersteller."</string>
-    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play-Dienste"</string>
-    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualisieren"</string>
-    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> wird nur ausgeführt, wenn du die Google Play-Dienste aktualisierst."</string>
-    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play-Dienste aktualisieren"</string>
-    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die gerade aktualisiert werden."</string>
-    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play-Dienste werden aktualisiert"</string>
-    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Eine neue Version der Google Play-Dienste wird benötigt. Diese wird in Kürze automatisch aktualisiert."</string>
-    <string msgid="5201977337835724196" name="common_open_on_phone">"Auf Smartphone öffnen"</string>
-    <string msgid="3441753203274453993" name="common_signin_button_text">"Anmelden"</string>
-    <string msgid="669893613918351210" name="common_signin_button_text_long">"Über Google anmelden"</string>
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/base/res/values-de/strings.xml -->
+<eat-comment/>
+<string name="common_google_play_services_enable_button" msgid="8585111718777012708">"Aktivieren"</string>
+<string name="common_google_play_services_enable_text" msgid="7045129128108380659">"<xliff:g id="APP_NAME">%1$s</xliff:g> funktioniert erst nach der Aktivierung der Google Play-Dienste."</string>
+<string name="common_google_play_services_enable_title" msgid="3147157405986503375">"Google Play-Dienste aktivieren"</string>
+<string name="common_google_play_services_install_button" msgid="9115728400623041681">"Installieren"</string>
+<string name="common_google_play_services_install_text" msgid="8179894293032530091">"Zur Nutzung von <xliff:g id="APP_NAME">%1$s</xliff:g> sind die Google Play-Dienste erforderlich, die auf deinem Gerät nicht installiert sind."</string>
+<string name="common_google_play_services_install_title" msgid="7442193194585196676">"Google Play-Dienste installieren"</string>
+<string name="common_google_play_services_notification_ticker" msgid="180394615667698242">"Fehler bei Zugriff auf Google Play-Dienste"</string>
+<string name="common_google_play_services_unsupported_text" msgid="5501187292256987189">"Zur Nutzung von <xliff:g id="APP_NAME">%1$s</xliff:g> sind Google Play-Dienste erforderlich, die auf deinem Gerät nicht unterstützt werden."</string>
+<string name="common_google_play_services_update_button" msgid="8172070149091615356">"Aktualisieren"</string>
+<string name="common_google_play_services_update_text" msgid="7773943415006962566">"<xliff:g id="APP_NAME">%1$s</xliff:g> wird nur ausgeführt, wenn du die Google Play-Dienste aktualisierst."</string>
+<string name="common_google_play_services_update_title" msgid="8706675115216073244">"Google Play-Dienste aktualisieren"</string>
+<string name="common_google_play_services_updating_text" msgid="7894275749778928941">"Zur Nutzung von <xliff:g id="APP_NAME">%1$s</xliff:g> sind Google Play-Dienste erforderlich, die gerade aktualisiert werden."</string>
+<string name="common_google_play_services_wear_update_text" msgid="2804989272736383918">"Eine neue Version der Google Play-Dienste wird benötigt. Diese wird in Kürze automatisch aktualisiert."</string>
+<string name="common_open_on_phone" msgid="5201977337835724196">"Auf Smartphone öffnen"</string>
+<string name="common_signin_button_text" msgid="3441753203274453993">"Anmelden"</string>
+<string name="common_signin_button_text_long" msgid="669893613918351210">"Über Google anmelden"</string>
 </resources>
