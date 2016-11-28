@@ -10,7 +10,8 @@
 
 # Needed for Parcelable/SafeParcelable classes & their creators to not get renamed, as they are
 # found via reflection.
--keepnames class * implements android.os.Parcelable
+-keep class com.google.android.gms.common.internal.ReflectedParcelable
+-keepnames class * implements com.google.android.gms.common.internal.ReflectedParcelable
 -keepclassmembers class * implements android.os.Parcelable {
   public static final *** CREATOR;
 }

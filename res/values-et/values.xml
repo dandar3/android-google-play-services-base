@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 <!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/base/res/values-et/strings.xml -->
 <eat-comment/>
-<string name="common_google_play_services_enable_button" msgid="8585111718777012708">"Lubamine"</string>
+<string name="common_google_play_services_enable_button" msgid="8585111718777012708">"Luba"</string>
 <string name="common_google_play_services_enable_text" msgid="7045129128108380659">"Rakendus <xliff:g id="APP_NAME">%1$s</xliff:g> töötab ainult siis, kui lubate Google Play teenused."</string>
 <string name="common_google_play_services_enable_title" msgid="3147157405986503375">"Google Play teenuste lubamine"</string>
 <string name="common_google_play_services_install_button" msgid="9115728400623041681">"Installi"</string>
