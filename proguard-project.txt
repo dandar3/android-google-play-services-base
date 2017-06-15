@@ -46,8 +46,14 @@
 # Needed when building against Marshmallow SDK.
 -dontwarn android.app.Notification
 
+# Firebase-Perf specific flags
+# Needed when app is not using OkHttp
+-dontwarn okio.**
+
+# Needed when app's compileSdkVersion < 24
+-dontwarn com.google.firebase.perf.network.**
+
 # Ensure that proguard will not strip GcmListenerService.handleIntent()
 -keepclassmembers class com.google.android.gms.gcm.GcmListenerService {
     public void handleIntent(android.content.Intent);
 }
-
