@@ -1,10 +1,10 @@
 ## android-google-play-services-base
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/google/m2repository/com/google/android/gms/play-services-base/11.2.0/play-services-base-11.2.0.aar`
+`https://maven.google.com/com/google/android/gms/play-services-base/11.2.0/play-services-base-11.2.0.aar`
 
 **Requires:**
-- `Android 7.1 (API 25) SDK Platform`
+- `Android 8.0 (API 26) SDK Platform`
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/11.2.0)
 - [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/11.2.0)
 
