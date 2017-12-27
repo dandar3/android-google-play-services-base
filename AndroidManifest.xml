@@ -14,8 +14,8 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.android.gms.base"
-    android:versionCode="1140"
-    android:versionName="11.4.0">
+    android:versionCode="1162"
+    android:versionName="11.6.2">
     <uses-sdk android:minSdkVersion="14"/>
     <application>
         <activity android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" android:exported="false"/>
