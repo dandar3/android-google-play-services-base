@@ -5,6 +5,9 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-collection"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-fragment"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-basement"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-tasks"/>
 	<classpathentry kind="output" path="bin/classes"/>

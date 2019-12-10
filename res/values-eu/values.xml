@@ -18,5 +18,5 @@
 <string name="common_google_play_services_wear_update_text" msgid="2804989272736383918">"Google Play zerbitzuen bertsio berria behar da. Berehala eguneratuko da automatikoki."</string>
 <string name="common_open_on_phone" msgid="5201977337835724196">"Ireki telefonoan"</string>
 <string name="common_signin_button_text" msgid="3441753203274453993">"Hasi saioa"</string>
-<string name="common_signin_button_text_long" msgid="669893613918351210">"Hasi saioa Google-n"</string>
+<string name="common_signin_button_text_long" msgid="669893613918351210">"Hasi saioa Google kontuarekin"</string>
 </resources>
