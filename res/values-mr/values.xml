@@ -3,7 +3,7 @@
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/base/res/values-mr/strings.xml -->
 <eat-comment/>
 <string name="common_google_play_services_enable_button" msgid="8585111718777012708">"सुरू करा"</string>
-<string name="common_google_play_services_enable_text" msgid="7045129128108380659">"तुम्ही Google Play सेवा सक्षम केल्याशिवाय <xliff:g id="APP_NAME">%1$s</xliff:g> हा अॅप कार्य करणार नाही."</string>
+<string name="common_google_play_services_enable_text" msgid="7045129128108380659">"तुम्ही Google Play सेवा सक्षम केल्याशिवाय <xliff:g id="APP_NAME">%1$s</xliff:g> हा अ‍ॅप कार्य करणार नाही."</string>
 <string name="common_google_play_services_enable_title" msgid="3147157405986503375">"Google Play सेवा सुरू करा"</string>
 <string name="common_google_play_services_install_button" msgid="9115728400623041681">"स्‍थापित करा"</string>
 <string name="common_google_play_services_install_text" msgid="8179894293032530091">"Google Play सेवा आपल्या डिव्हाइसवर उपलब्ध नाही, त्याशिवाय <xliff:g id="APP_NAME">%1$s</xliff:g> चालणार नाही."</string>

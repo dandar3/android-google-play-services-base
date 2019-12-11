@@ -18,5 +18,5 @@
 <string name="common_google_play_services_wear_update_text" msgid="2804989272736383918">"Vyžaduje sa nová verzia služieb Google Play. Aktualizujú sa automaticky v najbližšom čase."</string>
 <string name="common_open_on_phone" msgid="5201977337835724196">"Otvoriť v telefóne"</string>
 <string name="common_signin_button_text" msgid="3441753203274453993">"Prihlásiť sa"</string>
-<string name="common_signin_button_text_long" msgid="669893613918351210">"Prihlásiť sa do účtu Google"</string>
+<string name="common_signin_button_text_long" msgid="669893613918351210">"Prihlásiť sa účtom Google"</string>
 </resources>

@@ -10,7 +10,7 @@
 <string name="common_google_play_services_install_title" msgid="7442193194585196676">"Google Play சேவைகளைப் பெறவும்"</string>
 <string name="common_google_play_services_notification_channel_name" msgid="4293541511340436975">"கிடைக்கும் Google Play சேவைகள்"</string>
 <string name="common_google_play_services_notification_ticker" msgid="180394615667698242">"Google Play சேவைகள் பிழை"</string>
-<string name="common_google_play_services_unsupported_text" msgid="5501187292256987189">"Google Play சேவைகள் இருந்தால் மட்டுமே <xliff:g id="APP_NAME">%1$s</xliff:g> பயன்பாடு இயங்கும். ஆனால், உங்கள் சாதனத்தில் அவை ஆதரிக்கப்படவில்லை."</string>
+<string name="common_google_play_services_unsupported_text" msgid="5501187292256987189">"Google Play சேவைகள் இருந்தால் மட்டுமே <xliff:g id="APP_NAME">%1$s</xliff:g> ஆப்ஸ் இயங்கும். ஆனால், உங்கள் சாதனத்தில் அவை ஆதரிக்கப்படவில்லை."</string>
 <string name="common_google_play_services_update_button" msgid="8172070149091615356">"புதுப்பி"</string>
 <string name="common_google_play_services_update_text" msgid="7773943415006962566">"Google Play சேவைகளை இயக்கினால் மட்டுமே, <xliff:g id="APP_NAME">%1$s</xliff:g> செயல்படும்."</string>
 <string name="common_google_play_services_update_title" msgid="8706675115216073244">"Google Play சேவைகளைப் புதுப்பிக்கவும்"</string>
