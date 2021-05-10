@@ -18,5 +18,5 @@
 <string name="common_google_play_services_wear_update_text" msgid="2804989272736383918">"Potrebujete novo različico storitev Google Play. V kratkem se bodo posodobile."</string>
 <string name="common_open_on_phone" msgid="5201977337835724196">"Odpiranje v telefonu"</string>
 <string name="common_signin_button_text" msgid="3441753203274453993">"Prijava"</string>
-<string name="common_signin_button_text_long" msgid="669893613918351210">"Prijava z Google Računom"</string>
+<string name="common_signin_button_text_long" msgid="669893613918351210">"Prijava z Googlom"</string>
 </resources>
