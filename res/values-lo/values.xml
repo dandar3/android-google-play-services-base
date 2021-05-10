@@ -17,6 +17,6 @@
 <string name="common_google_play_services_updating_text" msgid="7894275749778928941">"<xliff:g id="APP_NAME">%1$s</xliff:g> ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ໂດຍທີ່ບໍ່ມີການ​ບໍ​ລິ​ການ Google Play, ເຊິ່ງ​ກຳ​ລັງ​ອັບ​ເດດ​ຢູ່​ໃນ​ປະ​ຈຸ​ບັນ."</string>
 <string name="common_google_play_services_wear_update_text" msgid="2804989272736383918">"ຈຳ​ເປັນ​ຕ້ອງ​ມີ​ກາ​ນ​ບໍ​ລິ​ການ Google Play ເວີ​ຊັນ​ໃໝ່. ມັນ​ຈະ​ອັບ​ເດດ​ຕົວ​ເອງ​ໄວໆ​ນີ້."</string>
 <string name="common_open_on_phone" msgid="5201977337835724196">"​ເປີດ​ໃນ​ໂທ​ລະ​ສັບ"</string>
-<string name="common_signin_button_text" msgid="3441753203274453993">"ລົງຊື່ເຂົ້າໃຊ້"</string>
+<string name="common_signin_button_text" msgid="3441753203274453993">"ເຂົ້າສູ່ລະບົບ"</string>
 <string name="common_signin_button_text_long" msgid="669893613918351210">"ລົງຊື່ເຂົ້າໃຊ້ດ້ວຍ Google"</string>
 </resources>

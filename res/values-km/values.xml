@@ -11,7 +11,7 @@
 <string name="common_google_play_services_notification_channel_name" msgid="4293541511340436975">"លទ្ធភាព​ប្រើប្រាស់សេវាកម្ម Google Play"</string>
 <string name="common_google_play_services_notification_ticker" msgid="180394615667698242">"កំហុស​​សេវាកម្ម​ Google កម្សាន្ត"</string>
 <string name="common_google_play_services_unsupported_text" msgid="5501187292256987189">"<xliff:g id="APP_NAME">%1$s</xliff:g> នឹងមិនដំណើរការដោយគ្មានសេវាកម្មរបស់ Google Play ដែលឧបករណ៍របស់អ្នកមិនគាំទ្រនោះទេ។"</string>
-<string name="common_google_play_services_update_button" msgid="8172070149091615356">"អាប់ដេត"</string>
+<string name="common_google_play_services_update_button" msgid="8172070149091615356">"ធ្វើ​បច្ចុប្បន្នភាព"</string>
 <string name="common_google_play_services_update_text" msgid="7773943415006962566">"<xliff:g id="APP_NAME">%1$s</xliff:g> នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកធ្វើបច្ចុប្បន្នភាពសេវាកម្ម Google Play។"</string>
 <string name="common_google_play_services_update_title" msgid="8706675115216073244">"អាប់ដេតសេវាកម្ម Google Play"</string>
 <string name="common_google_play_services_updating_text" msgid="7894275749778928941">"<xliff:g id="APP_NAME">%1$s</xliff:g> នឹងមិនដំណើរការទេ បើមិនមានសេវាកម្ម Google Play ដោយសារតែវាកំពុងអាប់ដេត។"</string>
