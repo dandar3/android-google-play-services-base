@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/base/res/values-es/strings.xml -->
 <eat-comment/>
-<string name="common_google_play_services_enable_button" msgid="8585111718777012708">"Habilitar"</string>
+<string name="common_google_play_services_enable_button" msgid="8585111718777012708">"Activar"</string>
 <string name="common_google_play_services_enable_text" msgid="7045129128108380659">"<xliff:g id="APP_NAME">%1$s</xliff:g> no funcionará hasta que no habilites Servicios de Google Play."</string>
 <string name="common_google_play_services_enable_title" msgid="3147157405986503375">"Habilita Servicios de Google Play"</string>
 <string name="common_google_play_services_install_button" msgid="9115728400623041681">"Instalar"</string>

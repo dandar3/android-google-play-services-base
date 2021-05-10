@@ -10,7 +10,7 @@
 <string name="common_google_play_services_install_title" msgid="7442193194585196676">"Преземи ги услугите на Google Play"</string>
 <string name="common_google_play_services_notification_channel_name" msgid="4293541511340436975">"Достапност на услугите на Google Play"</string>
 <string name="common_google_play_services_notification_ticker" msgid="180394615667698242">"Грешка на услугите на Google Play"</string>
-<string name="common_google_play_services_unsupported_text" msgid="5501187292256987189">"<xliff:g id="APP_NAME">%1$s</xliff:g> нема да се извршува без услугите на Google Play, што не се подржани од уредов."</string>
+<string name="common_google_play_services_unsupported_text" msgid="5501187292256987189">"<xliff:g id="APP_NAME">%1$s</xliff:g> нема да работи без услугите на Google Play, што не се поддржани од уредов."</string>
 <string name="common_google_play_services_update_button" msgid="8172070149091615356">"Ажурирај"</string>
 <string name="common_google_play_services_update_text" msgid="7773943415006962566">"<xliff:g id="APP_NAME">%1$s</xliff:g> нема да се извршува ако не ги ажурирате услугите на Google Play."</string>
 <string name="common_google_play_services_update_title" msgid="8706675115216073244">"Ажурирај ги услугите на Google Play"</string>
