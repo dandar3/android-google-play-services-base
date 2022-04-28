@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
- Copyright (C) 2012 The Android Open Source Project
+<!-- Copyright (C) 2012 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -15,17 +14,13 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.google.android.gms.base" 
-    android:versionCode="1760"
-    android:versionName="17.6.0">
-
-    <uses-sdk android:minSdkVersion="14" />
-
+          package="com.google.android.gms.base"
+    android:versionCode="1800"
+    android:versionName="18.0.0">
+    <uses-sdk android:minSdkVersion="14"/>
     <application>
-        <activity
-            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-            android:exported="false"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity android:name="com.google.android.gms.common.api.GoogleApiActivity"
+                  android:theme="@android:style/Theme.Translucent.NoTitleBar"
+                  android:exported="false"/>
     </application>
-
 </manifest>
